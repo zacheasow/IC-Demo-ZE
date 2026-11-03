@@ -10,11 +10,12 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
-
+It's just an AND gate to an LED
 ## How to test
-
+Run it
 Explain how to use your project
-
+Run it
 ## External hardware
-
+no
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+no
