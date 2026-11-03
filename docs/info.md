@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+just an AND gate to an LED
 Explain how your project works
 It's just an AND gate to an LED
 ## How to test
