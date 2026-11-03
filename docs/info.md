@@ -18,4 +18,4 @@ Run it
 ## External hardware
 no
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-no
+LEDs
